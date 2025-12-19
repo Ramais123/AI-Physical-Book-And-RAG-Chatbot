@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkphysical_ai_book=globalThis.webpackChunkphysical_ai_book||[]).push([[1903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/AI-Physical-Book-And-RAG-Chatbot/blog","blogTitle":"Blog","authorsListPath":"/AI-Physical-Book-And-RAG-Chatbot/blog/authors"}')}}]);
